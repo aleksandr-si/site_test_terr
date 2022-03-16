@@ -1,0 +1,1 @@
+chat id - send curl -v to https://api.telegram.org/bot<YourBOTToken>/getUpdates
