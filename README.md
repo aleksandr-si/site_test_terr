@@ -1,4 +1,5 @@
 # site_test_terr
+Script to test internet resource realability from GB, US and GER by ping utilit and telegram bot.
 Before running script you should to fill in spaces:
 - bot = telebot.TeleBot('')
 - ch_id=''
